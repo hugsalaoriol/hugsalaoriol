@@ -23,7 +23,7 @@ I’m Hug Sala Oriol, a Physics student at the University of Barcelona minoring 
 ### 1. [Price Difference Logarithm Behavior in Stock Market](https://github.com/hugsalaoriol/Stock_price_log_distribution)  
 Analysis and demonstration of the fat-tailed non-Gaussian shape of price difference distributions using real stock market data. This project applies advanced mathematical and statistical methods to understand market behavior.
 
-### 2. Radiotherapy Collision Detection Tool (Internship Project)  
+### 2. [Radiotherapy Collision Detection Tool](https://github.com/hugsalaoriol/Radiotherapy_collision_detection_tool/tree/main)  
 Developed during a hospital internship, this Jupyter notebook contains tests and algorithms designed to prevent patient-gantry collisions in radiotherapy treatments. *(Note: Sharing sensitive code is limited; please contact me for details.)*
 
 ### Future Projects  
